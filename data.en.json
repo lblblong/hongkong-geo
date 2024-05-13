@@ -36,7 +36,8 @@
           "西灣河 Sai Wan Ho",
           "筲箕灣 Shau Kei Wan",
           "柴灣 Chai Wan",
-          "小西灣 Siu Sai Wan"
+          "小西灣 Siu Sai Wan",
+          "炮台山 Fortress Hill"
         ]
       },
       {
@@ -131,7 +132,7 @@
     "children": [
       {
         "name": "葵青 Kwai Tsing",
-        "children": ["葵涌 Kwai Chung", "青衣 Tsing Yi"]
+        "children": ["葵涌 Kwai Chung", "青衣 Tsing Yi", "石籬 Shek Lei"]
       },
       {
         "name": "荃灣 Tsuen Wan",
@@ -221,10 +222,12 @@
         "children": [
           "長洲 Cheung Chau",
           "坪洲 Peng Chau",
-          "大嶼山 Lantau Island (包括東涌 including Tung Chung)",
-          "南丫島 Lamma Island"
+          "大嶼山 Lantau Island",
+          "南丫島 Lamma Island",
+          "東涌 Tung Chung"
         ]
       }
     ]
   }
 ]
+
